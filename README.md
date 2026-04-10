@@ -20,10 +20,10 @@ It uses a **bootloader written in Assembly** and a **kernel written in C** to di
 
 ## 📂 Project Structure
 
-* `bootloader.s` → Bootloader (Assembly code)
+* `boot.asm` → Bootloader (Assembly code)
 * `kernel.c` → Kernel (C code)
 * `Makefile` → Automates build and run process
-* `linker.ld` → Defines memory layout
+
 
 ---
 
